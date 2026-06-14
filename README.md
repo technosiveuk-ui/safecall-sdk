@@ -1,5 +1,9 @@
 # SafeCall Go SDK
 
+<p align="center">
+  <img src="assets/safecall-banner.jpg" alt="SafeCall Go SDK" width="560">
+</p>
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Go Reference](https://pkg.go.dev/badge/github.com/safecall-dev/safecall-go-sdk.svg)](https://pkg.go.dev/github.com/safecall-dev/safecall-go-sdk)
 
